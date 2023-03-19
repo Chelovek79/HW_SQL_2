@@ -1,4 +1,5 @@
 CREATE DATABASE skypro;
+
 CREATE TABLE employee
 (
     id         BIGSERIAL   NOT NULL PRIMARY KEY,
